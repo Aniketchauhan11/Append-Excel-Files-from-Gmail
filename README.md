@@ -67,9 +67,14 @@ A clean, combined dataset ready for analysis and reporting.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef52d565-ff3b-4c3a-bb41-49165dad8d10" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84be8a74-cb26-4f31-9689-56bf0afabd38" />
 
-* Power Query Steps
-* Final Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e5b4ce4-8529-408b-8b4a-1c2d2f1b7d0d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7564b6f2-acbe-4f33-940a-39df567b3b08" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce1760a7-73ed-4eae-a02b-41687699d8f5" />
+
 
 ---
 
